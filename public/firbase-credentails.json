@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "egyptian-coach",
+    "private_key_id": "3ce0bcb00e8037779db61db5e5a30101e72ce39e",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCz4CLmpDWn6BIZ\nZK5i8WMYcvntDqZ3O8rBnbZkbx0BQQoBU4mzHQ8dSjidmJFBcKNXyrl693FcNso+\nvUoLhazFVH5m5kyYIPANG2n95r/YX4ZHHKJRy+KmETDWYGQR6hNH0q5O4kfn5Dh3\nL+GLNLzgKFwqN0c7crl8uHPW7UkelN/jbf+L94Ap2yuYR2GwIxkHanRDe55gmqED\nBA7RErv0j1FNL8h2nhXvGBQhVfTjf21lqrZbAOkXWVqxb+lWbqkqAtl7x7mx4c7V\nWCEaLzOJ++Khmjqzv2vf5yVVWqeuEmaz7fN7omTiVogAKTuR3xQeZbuVkSueyzj7\nPg9hQDhJAgMBAAECggEACsRo8mtz9sgShUick7mlV+pSAZm15z9CBNL+/wYTs2aE\nRc4NWRZtODCgMPbYAxXOAUxWTAER3RY+hwDntMbcr7c+FcTFYvndxLsWXid45mfZ\nbtpM8R6GQ7CVvs9oThY37z2yR3COI1hq9N993cpbYAOqeLB0aB+W8NtNu9jaXqUr\nBEuBn4Qro87thfsSMdOCDzQxWjzUvWgM72XC2093xeYKHEjhqK/2cDdsZVXR8n8U\nqiJhZriV0ETrNedE3T902u0dxqxKjHMCpJ0l0cLEj3gg58up8afgGMvzWZMkS9PV\nJhplPgrZ3KhJu6nAx8TSfSfYMEIm1I7bmDSQbFbugQKBgQDh4kUYAA83wW8cpc5J\n6adhp/YbAFQBAKXOcKDZAGm1UptvubTHOWwwCKtMZH1C3AbNH2oMgrKZG9wko2hM\nY7VqrHLBUahD+pnjj8NyXdDQ0xDZmaIzwtgjB9E8jKKcU3vc9gMcGhumxuBZ23Ug\n7pbjmoVA/mtY5KCeZ6f8qgwJkQKBgQDL24m///JBwM6jipyUrq8lSHfFXR1e+XPa\nomUmvHmUR6Z8modXiS2EhrQAARcgjXC4NZv8trMp4dxjfBXrWjLwrh2GIox9CqRQ\n1b7PTftvr15iPcSfSxlq3Swm8FzTGuO813ZWJSiE2Cw4Mi4J9qPbjZQKmqY91OBl\nx7cups0nOQKBgQCbKWzA0bmiWRNUIGkVyJSbtl6NqaoKjkFXD3LN3US/syDmnDAb\n8cvpKutQLG8G8FETshKMyXKZTdPorv7ECnHh9tdVCByHparz8BsXgm4gI/wdHTWY\nTK1fUs1dxFUnAQnCfJMiSKTZ6R7PWrqYhovLiKckQB/JDjNu3FE+dCiUoQKBgQC9\nWlxnFQwm+zp1OekbSe6xyNBHaKhBcZ+lMzaVdnfPvYXtM3QHYQoAkUZcwqaCvB45\nXMJZSDK+8mZNmhKaG5w5ZuFRmIG6G8pos0GbOSoVoWUgB5O9Cnq/glTijl0KUW28\nGL54YedzDYB1albNNmUZKDacau2DfVo57/o8wP7KMQKBgCdT9spNtAlmdxbPjLLy\nsCR1p+I1tj0pmdcJXC+8d0gRYdhOIIn3Jf38kG2GTRVG429vMPHiiBoByrDp23PC\nmZ7k/hMsHH91L158DMpvUdY3TCAflF9hYiSvcH3GIxoFkPdxK6+UV1RMRr3anYTD\ndcP2RbI3BtTJ8R5D6Afn6xdV\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-cpfs9@egyptian-coach.iam.gserviceaccount.com",
+    "client_id": "118176186625678540422",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cpfs9%40egyptian-coach.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }

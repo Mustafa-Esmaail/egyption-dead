@@ -1,0 +1,57 @@
+# Node modules and logs
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# Laravel vendor and environment files
+/vendor
+/.env
+/.env.backup
+/.env.production
+
+# Laravel storage and build
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+
+# Laravel cache files
+/.phpunit.cache
+/.phpunit.result.cache
+
+# IDE settings and system files
+/.idea
+/.vscode
+/.fleet
+
+# Homestead
+Homestead.json
+Homestead.yaml
+
+# Composer/Auth config
+auth.json
+
+# Postman collections
+*.postman_collection.json
+
+# Database migrations
+/database/migrations/*
+
+# JWT config
+/config/jwt.php
+
+# App Models (custom)
+/app/Models/AwardRedeemRequest.php
+/app/Models/UserTalant.php
+/app/Models/UserGroup.php
+/app/Models/Team.php
+/app/Models/Product.php
+
+# Custom helper files
+/app/Http/Helpers/
+/app/Http/Helpers/helper.php
+
+# Admin Controllers (custom)
+/app/Http/Controllers/Admin/AwardsController.php
+/app/Http/Controllers/Admin/TalantController.php
+/app/Http/Controllers/Admin/TeamController.php
